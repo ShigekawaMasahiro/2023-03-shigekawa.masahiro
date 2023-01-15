@@ -1,0 +1,1 @@
+void LEA_De_192(unsigned int Plain[4], const unsigned int Cipher[4], const unsigned int Key_K[6]);
