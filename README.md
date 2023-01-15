@@ -22,7 +22,11 @@ You can get the result of encryption/decryption by giving the key and plaintext/
 - Upload all the files under folder "LEA_files" to your PYNQ-Z1's Jupyter Notebook folder to implement this system
 - Use jupyter notebook running on your PYNQ-Z1 and input key and plaintext/ciphertext, then execute.
 
-
+## If you want to encrypt a sequence of numbers with LEA-128
+```
+key = np.array([0x3c2d1e0f, 0x78695a4b, 0xb4a59687, 0xf0e1d2c3])
+plaintext = np.array([0x13121110, 0x17161514, 0x1b1a1918, 0x1f1e1d1c])
+```
 # Author
 
 - [Masahiro Shigekawa](https://github.com/ShigekawaMasahiro)
