@@ -1,1 +1,0 @@
-void LEA_De_128(unsigned int Plain[4], const unsigned int Cipher[4], const unsigned int Key_K[4]);
