@@ -4,6 +4,7 @@
 #define ROL(a, s) (((a) << (s)) | ((a) >> (32 - (s))))
 #define ROR(a, s) (((a) >> (s)) | ((a) << (32 - (s))))
 
+
 void LEA_En_192(const unsigned int Plain[4], unsigned int Cipher[4], const unsigned int Key_K[6]) {
 	static const unsigned int Delta[8] = {0xc3efe9db, 0x44626b02, 0x79e27c8a, 0x78df30ec, 0x715ea49e, 0xc785da0a, 0xe04ef22a, 0xe5c40957}; //Constant values
     static unsigned int T[6] = {0};
