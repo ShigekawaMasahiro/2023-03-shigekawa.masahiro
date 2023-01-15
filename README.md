@@ -16,7 +16,7 @@ You can get the result of encryption/decryption by giving the key and plaintext/
 - pynqlinux v2.7
 - Jupyter Notebook
 
-# Install
+# Install and Usage
 
 - Download this repository
 - Upload all the files under folder "LEA_files" to your PYNQ-Z1's jupyter notebook folder to implement this system
