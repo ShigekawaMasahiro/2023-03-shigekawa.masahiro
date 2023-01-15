@@ -1,0 +1,1 @@
+void LEA_En_128(const unsigned int Plain[4], unsigned int Cipher[4], const unsigned int Key_K[4]);
