@@ -44,5 +44,4 @@ int main(int argc, char *argv[]) {
   printf("Total: %lf us = %lf ns\n", elapsed_time_us / NUM_OF_LOOPS, elapsed_time_ns / NUM_OF_LOOPS);
 
   return 0;
-
 }
