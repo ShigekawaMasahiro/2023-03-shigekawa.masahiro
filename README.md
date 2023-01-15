@@ -19,7 +19,7 @@ You can get the result of encryption/decryption by giving the key and plaintext/
 # Install and Usage
 
 - Download this repository
-- Upload all the files under folder "LEA_files" to your PYNQ-Z1's jupyter notebook folder to implement this system
+- Upload all the files under folder "LEA_files" to your PYNQ-Z1's Jupyter Notebook folder to implement this system
 - Use jupyter notebook running on your PYNQ-Z1 and input key and plaintext/ciphertext, then execute.
 
 
@@ -29,8 +29,9 @@ You can get the result of encryption/decryption by giving the key and plaintext/
 
 # References
 
-[ISO/IEC 29192-2:2019
+- [ISO/IEC 29192-2:2019
 Information security — Lightweight cryptography — Part 2: Block ciphers](https://www.iso.org/standard/78477.html)
+- [K-subin/LEA: LEA Cipher Enc/Dec - GitHub](https://github.com/K-subin/LEA)
 
 # License
 
